@@ -1,0 +1,24 @@
+[submodule "URLDispatcher"]
+	path = URLDispatcher
+	url = git://github.com/holyshared/URLDispatcher.git
+[submodule "Mixin"]
+	path = Mixin
+	url = git://github.com/holyshared/Mixin.git
+[submodule "Locater"]
+	path = Locater
+	url = git://github.com/holyshared/Locater.git
+[submodule "MMap"]
+	path = MMap
+	url = git://github.com/holyshared/MMap.git
+[submodule "StaticMaps"]
+	path = StaticMaps
+	url = git://github.com/holyshared/StaticMaps.git
+[submodule "Gradually"]
+	path = Gradually
+	url = git://github.com/holyshared/Gradually.git
+[submodule "ImageDrawer"]
+	path = ImageDrawer
+	url = git://github.com/holyshared/ImageDrawer.git
+[submodule "Exhibition"]
+	path = Exhibition
+	url = git://github.com/holyshared/Exhibition.git
