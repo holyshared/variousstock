@@ -22,3 +22,6 @@
 [submodule "Exhibition"]
 	path = Exhibition
 	url = git://github.com/holyshared/Exhibition.git
+[submodule "Helper"]
+	path = Helper
+	url = git://github.com/holyshared/Helper.git
