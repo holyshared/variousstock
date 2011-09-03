@@ -25,3 +25,6 @@
 [submodule "Helper"]
 	path = Helper
 	url = git://github.com/holyshared/Helper.git
+[submodule "Serializer"]
+	path = Serializer
+	url = git@github.com:holyshared/Serializer.git
