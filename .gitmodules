@@ -28,6 +28,6 @@
 [submodule "Serializer"]
 	path = Serializer
 	url = git@github.com:holyshared/Serializer.git
-[submodule "Bootstrap"]
-	path = Bootstrap
-	url = git@github.com:holyshared/Bootstrap.git
+[submodule "Moostrap"]
+	path = Moostrap
+	url = git@github.com:holyshared/Moostrap.git
